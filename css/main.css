@@ -2532,7 +2532,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #9ee4ff;
+  background: #b8c7af;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2551,4 +2551,14 @@ ul.breadcrumb li:last-child {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+header.header {
+  background: url("/images/banner.jpeg") no-repeat center;
+}
+.header-inner {
+  padding-bottom: 100px;
+}
+.brand {
+  font-size: 24px;
+  background: transparent;
 }
