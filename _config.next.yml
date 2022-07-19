@@ -3,8 +3,15 @@ custom_file_path:
 menu:
   about: /about/ || fa fa-user
   home: / || fa fa-home
-  tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
 social:
   GitHub: https://github.com/CloudyAnt|| fab fa-github
   E-Mail: iiim.cloudy@gmail.com || fa fa-envelope
+# Schemes
+# scheme: Muse
+# scheme: Mist
+scheme: Pisces
+# scheme: Gemini
+
+# Dark Mode
+darkmode: true
