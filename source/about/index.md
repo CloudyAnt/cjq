@@ -8,19 +8,11 @@ type: "about"
 > Thank you for visiting my Hexo Blog. I'll update this site irregularly. Below this is my works list and contact details
 ---
 
-#  个人作品 | Personal works
+# 个人作品 | Personal works
 
-这里仅展示完全由个人完成的作品 | Only my own work is shown here
+## [Github](https://github.com/CloudyAnt)
 
-## [☑ MineSweeper（扫雷）](https://gitee.com/itscloudy/minesweeper)
-
-## [☑ SwingSupport](https://gitee.com/itscloudy/SwingSupport)
-
-## [☑ 中文文本关系编辑器的库](https://gitee.com/itscloudy/CTCRE/tree/master/build)
-
-## [☑ Qfig](https://github.com/CloudyAnt/Qfig)
-
-## [☑ java 片段](https://github.com/CloudyAnt/snipped-java)
+## [Gitee](https://github.com/CloudyAnt)
 
 ---
 
